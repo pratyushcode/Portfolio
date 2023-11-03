@@ -19,8 +19,7 @@ const INFO = {
 		description:
 			
 
-			"I am a seasoned backend developer with a deep-rooted mastery of Node.js. My track record boasts the creation of robust, secure, and highly-scalable web applications, harnessing an array of cutting-edge frameworks and technologies.",
-	},
+			"I'm currently pursuing my bachelor's degree in computer science and engineering from the Netaji Subash University of Technology, My primary interest lies in Full-Stack development,  problem-solving, and competitive programming. I have a great zeal to learn and to put all my skills and knowledge to get the best of my work done. Also, being a keen learner, I can work to the best of my potential faster and in a more relevant manner.",
 
 	about: {
 		title:"I'm Pratyush Kumar Sinha, based in Delhi, India, on a mission to shape tomorrow's world.",
